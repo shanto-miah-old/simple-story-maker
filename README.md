@@ -1,3 +1,3 @@
 # Simple Story Maker Project
 
-## inspired By [Shariful Islam](http://sadf.com)
+## Inspired By [Shariful Islam](https://www.facebook.com/profile.php?id=100010406086440)
