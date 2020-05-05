@@ -90,7 +90,7 @@
 				<div class="col-md-4">
 					<h4>Source Code</h4>
 					<p class="lead">
-						<a href="#" class="card-link" target="_blank">Github</a>
+						<a href="https://github.com/shanto-miah/simple-story-maker" class="card-link" target="_blank">Github</a>
 					</p>
 				</div>
 
